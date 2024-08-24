@@ -5,3 +5,4 @@ MACHINE LEARNING
 
 - Tensorflow 
 - Keras
+- Decision Tree
