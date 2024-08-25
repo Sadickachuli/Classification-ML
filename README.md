@@ -3,6 +3,8 @@
 FOR  CLASSIFICATION TASKS
 MACHINE LEARNING
 
+- Logistic Regression
 - Tensorflow 
 - Keras
 - Decision Tree
+- Support Vector Machine
