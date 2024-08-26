@@ -8,3 +8,4 @@ MACHINE LEARNING
 - Keras
 - Decision Tree
 - Support Vector Machine
+- Random Forest
