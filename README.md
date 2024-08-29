@@ -9,4 +9,3 @@ MACHINE LEARNING
 - Decision Tree
 - Support Vector Machine
 - Random Forest
-- CNN
