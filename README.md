@@ -9,4 +9,4 @@ MACHINE LEARNING
 - Decision Tree
 - Support Vector Machine (SVM)
 - Random Forest
-- CNN (Convolutional Nueral Network)
+- Convolutional Nueral Network (CNN)
