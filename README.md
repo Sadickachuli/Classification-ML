@@ -10,3 +10,4 @@ MACHINE LEARNING
 - Support Vector Machine (SVM)
 - Random Forest
 - Convolutional Nueral Network (CNN)
+- Forward propagation
